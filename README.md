@@ -1,5 +1,5 @@
 # Machine-learning-project
-**# Dataset Analyzer and Linear Regression Model
+Dataset Analyzer and Linear Regression Model
 
 This project performs dataset analysis and fits a linear regression model to help understand relationships between variables.
 
